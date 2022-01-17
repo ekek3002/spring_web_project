@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/Users/yellowin/workspace/study/spring/spring_web_project/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2600049792.index
+2436582989.index
+3292010082.index
+708212558.index
+1563510744.index

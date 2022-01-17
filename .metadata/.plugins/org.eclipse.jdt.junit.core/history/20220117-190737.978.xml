@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="DataSourceTests" project="ex00" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="org.zerock.persistence.DataSourceTests" time="0.008">
+    <testcase name="testConnection" classname="org.zerock.persistence.DataSourceTests" time="0.0"/>
+    <testcase name="testMybatis" classname="org.zerock.persistence.DataSourceTests" time="0.008"/>
+  </testsuite>
+</testrun>

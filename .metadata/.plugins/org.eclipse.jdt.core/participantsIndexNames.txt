@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+/Users/yellowin/workspace/study/spring/spring_web_project/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2485023825.index
+/ex00/src/main/java
+/Users/yellowin/workspace/study/spring/spring_web_project/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2436582989.index
+/ex01/src/main/java
+/Users/yellowin/workspace/study/spring/spring_web_project/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2600049792.index
+/ex01/src/main/java
+/Users/yellowin/workspace/study/spring/spring_web_project/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2312218099.index
+/ex02/src/main/java
