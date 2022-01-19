@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="jdbc"/>
+		<item key="selection" value="result"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
-			<item value="jdbc"/>
+			<item value="result"/>
+			<item value="myModal"/>
+			<item value="modal-body"/>
+			<item value="regBtn"/>
 			<item value="servlet"/>
+			<item value="MODIFY RESULT :"/>
+			<item value="delete"/>
+			<item value="DELETE"/>
+			<item value="org.zerock.domain.BoardVO"/>
+			<item value="insertSelectKey"/>
+			<item value="tbl_board"/>
+			<item value="org.zerock.mapper.BoardMapper"/>
+			<item value="jdbc"/>
 			<item value="javax.servlet-api"/>
 			<item value="]"/>
-			<item value="["/>
-			<item value="info"/>
-			<item value="log4jdbc.spylogdelegator.name=net.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator"/>
-			<item value="log4j"/>
-			<item value="log4"/>
 		</list>
 		<list key="replacehistory">
 			<item value="%5D"/>

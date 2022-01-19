@@ -1,0 +1,28 @@
+package org.zerock.domain;
+
+import lombok.Getter;
+import lombok.ToString;
+
+@Getter
+@ToString
+public class PageDTO {
+
+	private int startPage;
+	private int endPage;
+	private boolean prev, next;
+
+	private int total;
+	private Criteria cri;
+	public PageDTO(Criteria cri, int total) {
+		this.startPage = this.endPage - 9;
+		this.endPage = (int) (Math.ceil(cri.getPageNum() / 10.0)) * 10;
+		this.prev = prev;
+		this.next = next;
+		this.total = total;
+		this.cri = cri;
+	}
+	
+	
+	
+	
+}
