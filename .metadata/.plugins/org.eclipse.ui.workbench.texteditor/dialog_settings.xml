@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="result"/>
+		<item key="selection" value="modalInputReply"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="modalInputReply"/>
+			<item value="displayTime"/>
+			<item value="displyTime"/>
+			<item value="servlet"/>
+			<item value="json"/>
+			<item value="operForm"/>
+			<item value="actionForm"/>
+			<item value="list: Criteri"/>
+			<item value="pageNum"/>
+			<item value="testPaging = "/>
+			<item value="modify"/>
 			<item value="result"/>
 			<item value="myModal"/>
 			<item value="modal-body"/>
 			<item value="regBtn"/>
-			<item value="servlet"/>
-			<item value="MODIFY RESULT :"/>
-			<item value="delete"/>
-			<item value="DELETE"/>
-			<item value="org.zerock.domain.BoardVO"/>
-			<item value="insertSelectKey"/>
-			<item value="tbl_board"/>
-			<item value="org.zerock.mapper.BoardMapper"/>
-			<item value="jdbc"/>
-			<item value="javax.servlet-api"/>
-			<item value="]"/>
 		</list>
 		<list key="replacehistory">
 			<item value="%5D"/>
