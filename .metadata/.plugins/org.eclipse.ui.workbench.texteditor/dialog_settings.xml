@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="modalInputReply"/>
+		<item key="selection" value="modal"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="model"/>
+			<item value="pageNum"/>
 			<item value="modalInputReply"/>
 			<item value="displayTime"/>
 			<item value="displyTime"/>
@@ -16,15 +18,14 @@
 			<item value="operForm"/>
 			<item value="actionForm"/>
 			<item value="list: Criteri"/>
-			<item value="pageNum"/>
 			<item value="testPaging = "/>
 			<item value="modify"/>
 			<item value="result"/>
 			<item value="myModal"/>
 			<item value="modal-body"/>
-			<item value="regBtn"/>
 		</list>
 		<list key="replacehistory">
+			<item value="modal"/>
 			<item value="%5D"/>
 			<item value="%5B"/>
 			<item value="debug"/>
